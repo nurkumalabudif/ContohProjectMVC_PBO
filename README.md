@@ -18,16 +18,16 @@ IDENTITAS
 <br>NAMA SEKOLAH = SMK TELKOM MALANG
 <br>
 SCREENSHOOT APLIKASI
-![1.PNG](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/1.PNG)
+![1.png](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/1.PNG)
 <br>
-![2.PNG](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/2.PNG)
+![2.png](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/2.PNG)
 <br>
-![3.PNG](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/3.PNG)
+![3.Ppng](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/3.PNG)
 <br>
-![4.PNG](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/4.PNG)
+![4.png](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/4.PNG)
 <br>
-![5.PNG](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/5.PNG)
+![5.png](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/5.PNG)
 <br>
-![6.PNG](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/6.PNG)
+![6.png](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/6.PNG)
 <br>
-![7.PNG](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/7.PNG)
+![7.png](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/7.PNG)
