@@ -17,7 +17,8 @@ IDENTITAS
 <br>NIS = 4795/1514.070
 <br>NAMA SEKOLAH = SMK TELKOM MALANG
 <br>
-SCREENSHOOT APLIKASI
+* SCREENSHOOT APLIKASI
+
 ![1.png](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/1.PNG)
 
 ![2.png](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/2.PNG)
