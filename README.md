@@ -1,6 +1,7 @@
 # ContohProjectMVC_PBO
 <br>
-*PENJELASAN APLIKASI
+* PENJELASAN APLIKASI
+<br>
 Aplikasi ini memiliki fungsi untuk mendata(list of data) dari admin toko untuk mengecek data barang-barang
 <br>
 yang ada pada toko. Button yang disediakan telah semuanya berfungsi, seperti menyimpan barang yang baru datang,
@@ -9,7 +10,7 @@ manghapus barang yang telah habis/tak dijual lagi, memperbarui informasi data,da
 <br>
 kategori barang yang disediakan. Hope You Like It!
 <br>
-* Identitas
+* IDENTITAS
 <br>NAMA = NURKUMALA BUDI FAJRIN
 <br>KELAS = XI RPL 5
 <br>NO. URUT = 24
