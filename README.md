@@ -18,4 +18,16 @@ IDENTITAS
 <br>NAMA SEKOLAH = SMK TELKOM MALANG
 <br>
 SCREENSHOOT APLIKASI
-!(1)[https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/1.PNG]
+![1.PNG](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/1.PNG)
+<br>
+![2.PNG](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/2.PNG)
+<br>
+![3.PNG](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/3.PNG)
+<br>
+![4.PNG](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/4.PNG)
+<br>
+![5.PNG](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/5.PNG)
+<br>
+![6.PNG](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/6.PNG)
+<br>
+![7.PNG](https://github.com/nurkumalabudif/ContohProjectMVC_PBO/blob/master/7.PNG)
